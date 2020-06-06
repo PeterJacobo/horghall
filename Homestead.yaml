@@ -14,7 +14,7 @@ sites:
         map: horghall.test
         to: /home/vagrant/code/public
 databases:
-    - homestead
+    - horghall
 features:
     -
         mariadb: false
@@ -22,7 +22,6 @@ features:
         ohmyzsh: false
     -
         webdriver: false
-    -
-        mongodb: true
+
 name: horghall
 hostname: horghall
