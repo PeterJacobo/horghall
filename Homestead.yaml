@@ -22,5 +22,7 @@ features:
         ohmyzsh: false
     -
         webdriver: false
+    -
+        mongodb: true
 name: horghall
 hostname: horghall
